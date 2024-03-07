@@ -1,0 +1,137 @@
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\bin\Debug\CW Inventory system.exe.config
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\bin\Debug\CW Inventory system.exe
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\bin\Debug\CW Inventory system.pdb
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.csproj.AssemblyReference.cache
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Login.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Properties.Resources.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.csproj.GenerateResource.cache
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.csproj.CoreCompileInputs.cache
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.exe
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.pdb
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Customer_button.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Main_Form.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.User_Form.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.User_Module_Form.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Customer_Form.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Customer_Module_Form.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Category_Form.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Category_Module_Form.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Product_Form.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Product_Module_Form.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Order_Form.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Order_Module_Form.resources
+C:\Users\ayant\source\repos\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Welcom_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\bin\Debug\CW Inventory system.exe.config
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\bin\Debug\CW Inventory system.exe
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\bin\Debug\CW Inventory system.pdb
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.csproj.AssemblyReference.cache
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Category_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Category_Module_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Customer_button.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Customer_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Customer_Module_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Login.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Main_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Order_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Order_Module_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Product_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Product_Module_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Properties.Resources.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.User_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.User_Module_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Welcom_Form.resources
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.csproj.GenerateResource.cache
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.csproj.CoreCompileInputs.cache
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.exe
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.pdb
+E:\NIBM\GUI\CW\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Main_User_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\CW Inventory system.exe.config
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\CW Inventory system.exe
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\CW Inventory system.pdb
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.csproj.AssemblyReference.cache
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Category_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Category_Module_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Customer_button.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Customer_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Customer_Module_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Login.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Main_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Main_User_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Order_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Order_Module_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Product_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Product_Module_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Properties.Resources.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.User_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.User_Module_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Welcom_Form.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.csproj.GenerateResource.cache
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.csproj.CoreCompileInputs.cache
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.exe
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.pdb
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\EnvDTE.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\stdole.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\Microsoft.MSXML.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW_Inventory_system.Reports.resources
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\RdlCompile.cache
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\RdlCompile.compiled
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.csproj.CopyComplete
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\CW Inventory system.exe.manifest
+E:\NIBM\CW Inventory system\CW Inventory system\bin\Debug\CW Inventory system.application
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.exe.manifest
+E:\NIBM\CW Inventory system\CW Inventory system\obj\Debug\CW Inventory system.application
